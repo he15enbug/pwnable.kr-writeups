@@ -2,10 +2,10 @@
 
 - Writeups for [pwnable.kr](https://pwnable.kr/)
 
-## Toddler's Bottle [1/21]
+## Toddler's Bottle [2/21]
 
 - [x] [fd]
-- [ ] collision
+- [x] collision
 - [ ] bof
 - [ ] flag
 - [ ] passcode
